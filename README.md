@@ -23,13 +23,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with Playwright screen capture (see `scripts/generate_walkthrough.py` to regenerate).
+<!-- Replace the URL above with your GIF (e.g. Imgur) or add walkthrough.gif to the repo -->
+GIF created with ...
 
 ## Notes
 
-The main challenge was keeping the correct project folder for submission: a duplicate `web102_prework` copy had incomplete `index.js` (challenges 4–7 missing). The completed code lives at the repository root. Filtering buttons, stats, company summary, and top-funded games are implemented in `index.js`.
+Describe any challenges encountered while building the app.
 
 ## License
 
