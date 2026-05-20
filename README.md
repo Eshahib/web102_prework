@@ -4,7 +4,7 @@ Submitted by: **Emilio Shahib**
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total *(update before submitting)*
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -25,12 +25,11 @@ Here's a walkthrough of implemented features:
 
 <img src='./walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace walkthrough.gif with your GIF path after recording (or use an imgur/GitHub link) -->
-GIF created with LiceCap *(update with your tool)*
+GIF created with Playwright screen capture (see `scripts/generate_walkthrough.py` to regenerate).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge was keeping the correct project folder for submission: a duplicate `web102_prework` copy had incomplete `index.js` (challenges 4–7 missing). The completed code lives at the repository root. Filtering buttons, stats, company summary, and top-funded games are implemented in `index.js`.
 
 ## License
 
